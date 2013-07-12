@@ -1,6 +1,6 @@
 Things I Bought
 ---------------
 
-The exercise from chapter one of Rails 4 in Action
+The SUPER FUN exercise from chapter one of Rails 4 in Action
 
 This is an addition
